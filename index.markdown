@@ -7,7 +7,7 @@ layout: home
 <h1>All The Agents Challenge</h1>
 
 <div style="margin-top: -10px;">
-	<p>In conjunction with <a href="https://iswc2021.semanticweb.org/" target="_blank">ISWC 2021</a> (October 24-28, 2021)</p>
+	<p>In conjunction with the <a href="https://iswc2021.semanticweb.org/" target="_blank">International Semantic Web Conference (ISWC) 2021</a> (October 24-28, 2021)</p>
 </div>
 
 Agents on the Web have been a part of the vision for the [Semantic Web](https://www.scientificamerican.com/article/the-semantic-web/).
