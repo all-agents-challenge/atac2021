@@ -10,7 +10,7 @@ layout: home
 	<p>In conjunction with the <a href="https://iswc2021.semanticweb.org/" target="_blank">International Semantic Web Conference (ISWC) 2021</a> (October 24-28, 2021)</p>
 </div>
 
-## Abstract
+## Motivation
 
 Agents on the Web have been a part of the vision for the [Semantic Web](https://www.scientificamerican.com/article/the-semantic-web/).
 While [it has b](https://doi.org/10.1109/MIS.2007.62)e[en noted](https://doi.org/10.1109/MIS.2006.62) that the original Semantic Web vision has not yet fully materialised, recent progress seems to indicate that we may now be at a stage where:
@@ -20,7 +20,7 @@ While [it has b](https://doi.org/10.1109/MIS.2007.62)e[en noted](https://doi.org
 This bridging of technologies and communities has also been the topic of the [Dagstuhl seminar "Autonomous Agents on the Web"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21072) held in Feburary 2021.
 Therefore, for the 20th edition of the ISWC conference and in spirit of [Jim Hendler's op-ed](https://doi.org/10.1109/MIS.2007.62) that asked "Where are all the agents?", we want to pose the **All-the-Agents-Challenge (ATAC)** to the Semantic Web community: 
 
-> ***The challenge to build agents that do things on Linked Data***.
+<div style="text-align: center; width:100%;"><em style="font-style:italic; font-weight:bold;">The challenge to build agents that do things on Linked Data</em></div>
 
 ## Important Dates
 
