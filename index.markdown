@@ -15,7 +15,7 @@ layout: home
 Agents on the Web have been a part of the vision for the [Semantic Web](https://www.scientificamerican.com/article/the-semantic-web/).
 While [it has b](https://doi.org/10.1109/MIS.2007.62)e[en noted](https://doi.org/10.1109/MIS.2006.62) that the original Semantic Web vision has not yet fully materialised, recent progress seems to indicate that we may now be at a stage where:
 1. developments such as the [Web of Things](https://www.w3.org/TR/wot-thing-description/) may unlock new practical use cases for agents on the Web, and 
-2. the substrate provided by Semantic Web technologies (e.g., [Linked Data Platform](https://www.w3.org/TR/ldp/), [Linked Data Notifications](https://www.w3.org/TR/ldn/), [SoLiD](https://solidproject.org/) PODs) may open [new perspectives](http://dl.acm.org/citation.cfm?id=3331893) on the integration of Semantic Web with agent technologies.
+2. the substrate provided by recent Semantic Web technologies (e.g., [Linked Data Platform](https://www.w3.org/TR/ldp/), [Linked Data Notifications](https://www.w3.org/TR/ldn/), [SoLiD](https://solidproject.org/) PODs) may open [new perspectives](http://dl.acm.org/citation.cfm?id=3331893) on the integration of Semantic Web with agent technologies.
 
 This bridging of technologies and communities has also been the topic of the [Dagstuhl seminar "Autonomous Agents on the Web"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21072) held in Feburary 2021.
 Therefore, for the 20th edition of the ISWC conference and in spirit of [Jim Hendler's op-ed](https://doi.org/10.1109/MIS.2007.62) that asked "Where are all the agents?", we want to pose the **All-the-Agents-Challenge (ATAC)** to the Semantic Web community: 
