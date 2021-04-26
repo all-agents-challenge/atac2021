@@ -26,7 +26,7 @@ Therefore, for the 20th edition of the ISWC conference and in spirit of [Jim Hen
 
 | Event | Date |
 |---|---|
-| Release of environments: | May 15, 2021 |
-| Submission deadline: | July 15, 2021 |
-| Notifications: | August 20, 2021 |
+| Release of environments: | May 15, 2021, tbc |
+| Submission deadline: | July 15, 2021, tbc |
+| Notifications: | August 20, 2021, tbc |
 | Challenge presentations: | October 24-28, 2021 |
