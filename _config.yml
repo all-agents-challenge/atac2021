@@ -21,7 +21,7 @@
 title: ATAC
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  [ATAC MOTTO]
+  Build agents that do things on Linked Data
 baseurl: "/atac2021" # the subpath of your site, e.g. /blog
 url: "https://all-agents-challenge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
