@@ -37,7 +37,7 @@ More information about the process (judging of finalists, ...) will be published
 
 | Event | Date |
 |---|---|
-| Release of environments: | May 15, 2021, tbc |
-| Submission deadline: | July 15, 2021, tbc |
-| Notifications: | August 20, 2021, tbc |
+| Release of environments: | May 22, 2021, tbc |
+| Submission deadline: | July 22, 2021, tbc |
+| Notifications: | August 27, 2021, tbc |
 | Challenge presentations: | October 24-28, 2021 |
