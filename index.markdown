@@ -22,6 +22,17 @@ Therefore, for the 20th edition of the ISWC conference and in spirit of [Jim Hen
 
 <div style="text-align: center; width:100%;"><em style="font-style:italic; font-weight:bold;">The challenge to build agents that do things on Linked Data</em></div>
 
+## Process
+
+Submissions should contain:
+* 1-2 pages of text
+* A short demo video
+* A link to code
+
+Accepted submissions (finalists) will be invited to extend their paper to 5 pages to appear in the challenge's proceedings.
+
+More information about the process (judging of finalists, ...) will be published here soon.
+
 ## Important Dates
 
 | Event | Date |
