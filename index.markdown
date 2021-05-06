@@ -30,3 +30,16 @@ Therefore, for the 20th edition of the ISWC conference and in spirit of [Jim Hen
 | Submission deadline: | July 15, 2021, tbc |
 | Notifications: | August 20, 2021, tbc |
 | Challenge presentations: | October 24-28, 2021 |
+
+## Organization
+
+### Challenge Organizers
+
+* Tobias Käfer, KIT, Germany
+* Andreas Harth, Universität Erlangen-Nürnberg (FAU) and Fraunhofer SCS, Germany
+* Andrei Ciortea, University of St.Gallen, Switzerland
+* Victor Charpenay, MINES Saint-Étienne, France
+
+### Challenge Jury
+
+TBA
