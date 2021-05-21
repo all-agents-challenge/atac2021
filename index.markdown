@@ -70,10 +70,10 @@ Next to single-agent submissions, we also appreciate agents with a form of socia
 
 ### Challenge Organizers
 
-* Tobias Käfer, KIT, Germany
-* Andreas Harth, Universität Erlangen-Nürnberg (FAU) and Fraunhofer SCS, Germany
-* Andrei Ciortea, University of St.Gallen, Switzerland
-* Victor Charpenay, MINES Saint-Étienne, France
+* [Tobias Käfer](https://www.aifb.kit.edu/web/Tobias_K%C3%A4fer/en), KIT, Germany
+* [Andreas Harth](http://harth.org/andreas/), Universität Erlangen-Nürnberg (FAU) and Fraunhofer SCS, Germany
+* [Andrei Ciortea](http://andreiciortea.ro/), University of St.Gallen, Switzerland
+* [Victor Charpenay](http://www.vcharpenay.link/), MINES Saint-Étienne, France
 
 ### Challenge Jury
 
