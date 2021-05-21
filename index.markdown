@@ -22,17 +22,6 @@ Therefore, for the 20th edition of the ISWC conference and in spirit of [Jim Hen
 
 <div style="text-align: center; width:100%;"><em style="font-style:italic; font-weight:bold;">The challenge to build agents that do things on Linked Data</em></div>
 
-## Process
-
-Submissions should contain:
-* 1-2 pages of text
-* A short demo video
-* A link to code
-
-Accepted submissions (finalists) will be invited to extend their paper to 5 pages to appear in the challenge's proceedings.
-
-More information about the process (judging of finalists, ...) will be published here soon.
-
 ## Important Dates
 
 | Event | Date |
@@ -41,6 +30,41 @@ More information about the process (judging of finalists, ...) will be published
 | Submission deadline: | July 22, 2021, tbc |
 | Notifications: | August 27, 2021, tbc |
 | Challenge presentations: | October 24-28, 2021 |
+
+## Process and Judging Criteria
+
+Submissions should contain:
+* 1-2 pages of text
+* A short demo video
+* A link to code
+
+Accepted submissions (finalists) will be invited to extend their paper to 5 pages to appear in the challenge's proceedings.
+
+While there are no established metrics for evaluating the performance of agents on the Semantic Web, and as we want to foster creativity, the committee will evaluate submissions according to the criteria we describe in the following. The authors should make sure that adhering to these criteria does not lead to excessive complexity that is not warranted by the use case. 
+
+### Clarity (hard criterion)
+As we aim to attract a diverse set of submissions, we expect an accompanying short paper and demonstrator video that describe the use-case and the agent-based system. We expect the submission to be clear and understandable to the evaluation committee.
+
+To raise the clarity you may want to say how you position yourself in well-established classifications for agent-based systems, e.g., the Russell/Norvig and (Genesereth/Nilsson) taxonomy to classify agents into Simple Reflex (tropistic) agents, Model-based (hysteretic) agents, and Goal-based (deliberate) agents.
+Linked Data (hard criterion)
+
+A hard constraint we apply is that we expect agents to operate on Linked Data on the Web, i.e. to make HTTP requests, to process RDF, and to follow links. 
+
+### Support for heterogeneity
+
+To take an existing (multi-)agent system and make it interoperable with multiple sources/external data gives submissions some points in this category. The better a submission can cope with heterogeneous environments, the more points we award.
+
+### Support for dynamicity
+
+During the execution, an agent should exhibit adaptive behaviour (e.g., to cope with dynamic environments, if the environment is dynamic), i.e. we award points for submissions if agents:
+
+* react to changes in the environment
+* enact change in the environment
+* update their state or evolve at runtime
+
+### Support for interaction and coordination
+
+Next to single-agent submissions, we also appreciate agents with a form of social ability, i.e., agents that can interact and coordinate with other agents (e.g., direct message exchange, stigmergy, organisations, policies and norms, automated negotiation, interaction with humans).
 
 ## Organization
 
