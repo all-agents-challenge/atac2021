@@ -77,6 +77,13 @@ Next to single-agent submissions, we also appreciate agents with a form of socia
 
 ## Organization
 
+### Challenge Jury
+* Jim Hendler, Rensselaer Polytechnic Institute (USA)
+* Jomi Hübner, Federal University of Santa Catarina (BR)
+* Simon Mayer, University of St. Gallen (CH)
+* Alessandro Ricci, University of Bologna (IT)
+* Munindar Singh, North Carolina State University (USA)
+
 ### Challenge Organizers
 
 * [Tobias Käfer](https://www.aifb.kit.edu/web/Tobias_K%C3%A4fer/en), KIT, Germany
@@ -84,6 +91,4 @@ Next to single-agent submissions, we also appreciate agents with a form of socia
 * [Andrei Ciortea](http://andreiciortea.ro/), University of St.Gallen, Switzerland
 * [Victor Charpenay](http://www.vcharpenay.link/), MINES Saint-Étienne, France
 
-### Challenge Jury
 
-TBA
