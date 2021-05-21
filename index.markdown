@@ -22,6 +22,15 @@ Therefore, for the 20th edition of the ISWC conference and in spirit of [Jim Hen
 
 <div style="text-align: center; width:100%;"><em style="font-style:italic; font-weight:bold;">The challenge to build agents that do things on Linked Data</em></div>
 
+## Environments
+Submissions to the challenge can make use of one of those environments -- or bring their own.
+
+* The [Autonomous Maze Environment Explorer Project (AMEE)](https://amee-project.github.io/) provides an environment for agents that have to escape a maze by following hypermedia affordances. AMEE can simulate mazes of different sizes. We provide a [RDF version of AMEE](https://github.com/all-agents-challenge/maze-server).
+    
+* The [Building on Linked Data (BOLD)](https://github.com/bold-benchmark) environment is a description of a large real-world building (2 floors, over 250 rooms) with simulated occupancy and sunlight. Web agents can read occupancy and light level in rooms values through sensors. Agents can also actuate light switches located in the rooms. On this basis, participants to the challenge could implement several energy saving scenarios by interacting with the building's lighting system. The building and all sensors and actuators are modeled using the Brick and Semantic Sensor Network (SSN) ontologies. Participants can experiment with BOLD and program their agents against it by downloading the [BOLD server](https://github.com/bold-benchmark/bold-server).
+
+* Your amazing agent environment. If you have a cool agent environment that provides Linked Data and maybe Web of Things Thing Descriptions, like your SoLiD POD, or your semantic IoT deployment, why not submit an agent that uses it?
+
 ## Important Dates
 
 | Event | Date |
