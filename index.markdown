@@ -55,7 +55,8 @@ While there are no established metrics for evaluating the performance of agents 
 As we aim to attract a diverse set of submissions, we expect an accompanying short paper and demonstrator video that describe the use-case and the agent-based system. We expect the submission to be clear and understandable to the evaluation committee.
 
 To raise the clarity you may want to say how you position yourself in well-established classifications for agent-based systems, e.g., the Russell/Norvig and (Genesereth/Nilsson) taxonomy to classify agents into Simple Reflex (tropistic) agents, Model-based (hysteretic) agents, and Goal-based (deliberate) agents.
-Linked Data (hard criterion)
+
+### Linked Data (hard criterion)
 
 A hard constraint we apply is that we expect agents to operate on Linked Data on the Web, i.e. to make HTTP requests, to process RDF, and to follow links. 
 
