@@ -42,6 +42,10 @@ Submissions to the challenge can make use of one of those environments -- or bri
 
 ## Process
 
+To take part in the challenge, you need to prepare a submission.
+Then, the submission will be evaluated, and, in case of acceptance, there will be the opportunity to present/appear in the proceedings.
+Details on presentation and proceedings will be published here.
+
 ### Submitting to ATAC 2021
 
 Submissions should contain:
@@ -49,7 +53,7 @@ Submissions should contain:
 * A short demo video
 * A link to code
 
-Submissions should be submitted via easychair: https://easychair.org/conferences/?conf=atac2021
+Submissions should be submitted via [easychair](https://easychair.org/conferences/?conf=atac2021).
 
 ### After Acceptance
 
