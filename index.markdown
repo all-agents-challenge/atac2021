@@ -40,14 +40,23 @@ Submissions to the challenge can make use of one of those environments -- or bri
 | Notifications: | August 27, 2021 |
 | Challenge presentations: | October 24-28, 2021 |
 
-## Process and Judging Criteria
+## Process
+
+### Submitting to ATAC 2021
 
 Submissions should contain:
 * 1-2 pages of text
 * A short demo video
 * A link to code
 
+Submissions should be submitted via easychair: https://easychair.org/conferences/?conf=atac2021
+
+### After Acceptance
+
+There will be the opportunity to present for accepted submissions at ISWC, details are yet to be confirmed.
 Accepted submissions (finalists) will be invited to extend their paper to 5 pages to appear in the challenge's proceedings.
+
+## Judging Criteria
 
 While there are no established metrics for evaluating the performance of agents on the Semantic Web, and as we want to foster creativity, the committee will evaluate submissions according to the criteria we describe in the following. The authors should make sure that adhering to these criteria does not lead to excessive complexity that is not warranted by the use case. 
 
