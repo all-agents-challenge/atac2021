@@ -36,7 +36,7 @@ Submissions to the challenge can make use of one of those environments -- or bri
 | Event | Date |
 |---|---|
 | Release of environments: | May 22, 2021 |
-| Submission deadline: | July 22, 2021 |
+| Submission deadline: | **August 1, 2021** (extended) |
 | Notifications: | August 27, 2021 |
 | Challenge presentations: | October 24-28, 2021 |
 
