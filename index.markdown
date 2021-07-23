@@ -50,8 +50,8 @@ Details on presentation and proceedings will be published here.
 
 Submissions should contain:
 * 1-2 pages of text, including:
-* A link to a short demo video
-* A link to code
+  * A link to a short demo video with running code
+  * A link to source code
 
 Submissions should be submitted via [easychair](https://easychair.org/conferences/?conf=atac2021).
 
