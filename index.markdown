@@ -49,8 +49,8 @@ Details on presentation and proceedings will be published here.
 ### Submitting to ATAC 2021
 
 Submissions should contain:
-* 1-2 pages of text
-* A short demo video
+* 1-2 pages of text, including:
+* A link to a short demo video
 * A link to code
 
 Submissions should be submitted via [easychair](https://easychair.org/conferences/?conf=atac2021).
