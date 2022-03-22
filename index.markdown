@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<div style="font-weight: bold; border: black 1px solid; padding: 5px; text-align: center;">
+<div style="font-weight: bold; border: black 1px solid; padding: 5px; text-align: center; background: #f5f4ef; margin-bottom: 1em;">
 Proceedings of ATAC 2021 have been published <a href="http://ceur-ws.org/Vol-3111/">on CEUR-WS.org (vol. 3111)</a>.
 </div>
 
