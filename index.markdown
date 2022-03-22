@@ -4,6 +4,10 @@
 
 layout: home
 ---
+<div style="font-weight: bold; border: black 1px solid; padding: 5px; text-align: center;">
+Proceedings of ATAC 2021 have been published <a href="http://ceur-ws.org/Vol-3111/">on CEUR-WS.org (vol. 3111)</a>.
+</div>
+
 <h1>All The Agents Challenge</h1>
 
 <div style="margin-top: -10px;">
@@ -104,5 +108,3 @@ Next to single-agent submissions, we also appreciate agents with a form of socia
 * [Andreas Harth](http://harth.org/andreas/), University of Erlangen-Nuremberg and Fraunhofer SCS (DE)
 * [Andrei Ciortea](http://andreiciortea.ro/), University of St. Gallen (CH)
 * [Victor Charpenay](http://www.vcharpenay.link/), MINES Saint-Étienne (FR)
-
-
